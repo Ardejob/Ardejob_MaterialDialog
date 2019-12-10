@@ -1,2 +1,2 @@
 # Ardejob_MaterialDialog
-This is a mterial dialog library with animation
+This is a mterial Design dialog library with animation
